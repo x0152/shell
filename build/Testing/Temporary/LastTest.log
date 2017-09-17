@@ -1,0 +1,18 @@
+Start testing: Sep 17 12:17 MSK
+----------------------------------------------------------
+1/1 Testing: test
+1/1 Test: test
+Command: "/home/x0152/mysrc/cpp/shell/build/tests/test_shell"
+Directory: /home/x0152/mysrc/cpp/shell/build/tests
+"test" start time: Sep 17 12:17 MSK
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"test" end time: Sep 17 12:17 MSK
+"test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Sep 17 12:17 MSK
