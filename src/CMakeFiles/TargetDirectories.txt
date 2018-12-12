@@ -1,8 +1,0 @@
-/home/x0152/mysrc/cpp/shell/src/CMakeFiles/rebuild_cache.dir
-/home/x0152/mysrc/cpp/shell/src/CMakeFiles/edit_cache.dir
-/home/x0152/mysrc/cpp/shell/src/CMakeFiles/test.dir
-/home/x0152/mysrc/cpp/shell/src/CMakeFiles/sh.dir
-/home/x0152/mysrc/cpp/shell/src/tests/CMakeFiles/edit_cache.dir
-/home/x0152/mysrc/cpp/shell/src/tests/CMakeFiles/test.dir
-/home/x0152/mysrc/cpp/shell/src/tests/CMakeFiles/rebuild_cache.dir
-/home/x0152/mysrc/cpp/shell/src/tests/CMakeFiles/test_shell.dir

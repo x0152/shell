@@ -38,7 +38,8 @@ int ShellFunctions::_FunctionHelp(const list<string> args, ostream& out){
         out << "\t" << fun.first << " -> " << fun.second.desctiption << endl;
     }
 
-    return 0; }
+    return 0; 
+}
 
 void ShellFunctions::Add(const string command, const string desctiption, const shell_functon fun){
     ShellFunction sf;
